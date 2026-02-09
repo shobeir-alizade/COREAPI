@@ -1,0 +1,4 @@
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.TestUnit\obj\Debug\net9.0\WebAPI.TestUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.TestUnit\obj\Debug\net9.0\WebAPI.TestUnit.AssemblyInfoInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.TestUnit\obj\Debug\net9.0\WebAPI.TestUnit.AssemblyInfo.cs
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.TestUnit\obj\Debug\net9.0\WebAPI.TestUnit.csproj.CoreCompileInputs.cache

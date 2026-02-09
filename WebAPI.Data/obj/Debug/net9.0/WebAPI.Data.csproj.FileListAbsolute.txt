@@ -1,0 +1,17 @@
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Data.deps.json
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Data.runtimeconfig.json
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Data.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Data.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Core.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\bin\Debug\net9.0\WebAPI.Core.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.csproj.AssemblyReference.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.AssemblyInfoInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.AssemblyInfo.cs
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.D.00F012BA.Up2Date
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\refint\WebAPI.Data.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\WebAPI.Data.genruntimeconfig.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Data\obj\Debug\net9.0\ref\WebAPI.Data.dll

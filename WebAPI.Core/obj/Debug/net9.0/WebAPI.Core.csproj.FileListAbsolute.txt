@@ -1,0 +1,12 @@
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\bin\Debug\net9.0\WebAPI.Core.deps.json
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\bin\Debug\net9.0\WebAPI.Core.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\bin\Debug\net9.0\WebAPI.Core.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.AssemblyInfo.cs
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\refint\WebAPI.Core.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\WebAPI.Core.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Core\obj\Debug\net9.0\ref\WebAPI.Core.dll

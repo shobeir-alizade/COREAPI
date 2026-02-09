@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\controllerstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\controllerstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\commonstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\commonstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\webapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\webapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\devsharpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\devsharpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\modelbinding\\persiandatemodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\modelbinding\\persiandatemodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\modelbinding\\mybinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\modelbinding\\mybinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\filters\\myauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\filters\\myauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\filters\\addheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\filters\\addheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\buildTransitive\\net8.0\\Microsoft.EntityFrameworkCore.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\baseenititymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\baseenititymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\securitystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\securitystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\poweredbymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\poweredbymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|c:\\users\\sh.alizadeh\\desktop\\coreapi-main\\webapi.general\\infrastructure\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E0E2A-C0AE-DD1B-DD45-A88394CE4B0E}|WebAPI.General\\WebAPI.Infrastructure.csproj|solutionrelative:webapi.general\\infrastructure\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPI.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\WebAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WebAPI.General\\WebAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\WebAPI.Infrastructure.csproj",
+              "RelativeToolTip": "WebAPI.General\\WebAPI.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T03:20:43.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonStartup.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\CommonStartup.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\CommonStartup.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\CommonStartup.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\CommonStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:21.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerStartup.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ControllerStartup.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\ControllerStartup.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ControllerStartup.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\ControllerStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:03.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAIwLAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-05T03:43:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:09.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ErrorHandler.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\ErrorHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:39:18.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevsharpController.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\DevsharpController.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\DevsharpController.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\DevsharpController.cs",
+              "RelativeToolTip": "WebAPI.General\\DevsharpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:10:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersianDateModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ModelBinding\\PersianDateModelBinder.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\ModelBinding\\PersianDateModelBinder.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ModelBinding\\PersianDateModelBinder.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\ModelBinding\\PersianDateModelBinder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyBinder.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ModelBinding\\MyBinder.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\ModelBinding\\MyBinder.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ModelBinding\\MyBinder.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\ModelBinding\\MyBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:51.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyAuthorize.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\MyAuthorize.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\Filters\\MyAuthorize.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\MyAuthorize.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\Filters\\MyAuthorize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:42.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\LogFilter.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\Filters\\LogFilter.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\LogFilter.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\Filters\\LogFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddHeaderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\AddHeaderFilter.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\Filters\\AddHeaderFilter.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\Filters\\AddHeaderFilter.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\Filters\\AddHeaderFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:11:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.EntityFrameworkCore.props",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\buildTransitive\\net8.0\\Microsoft.EntityFrameworkCore.props",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\buildTransitive\\net8.0\\Microsoft.EntityFrameworkCore.props",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\buildTransitive\\net8.0\\Microsoft.EntityFrameworkCore.props [Read Only]",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\buildTransitive\\net8.0\\Microsoft.EntityFrameworkCore.props [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-07T06:44:17.361Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEnitityModel.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\BaseEnitityModel.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\BaseEnitityModel.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\BaseEnitityModel.cs",
+              "RelativeToolTip": "WebAPI.General\\BaseEnitityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:10:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecurityStartup.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\SecurityStartup.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\SecurityStartup.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\SecurityStartup.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\SecurityStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PoweredByMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\PoweredByMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\PoweredByMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\PoweredByMiddleware.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\PoweredByMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI.General\\Infrastructure\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.General\\Infrastructure\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "WebAPI.General\\Infrastructure\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:12:42.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

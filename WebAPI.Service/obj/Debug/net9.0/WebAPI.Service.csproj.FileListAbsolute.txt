@@ -1,0 +1,11 @@
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\bin\Debug\net9.0\WebAPI.Service.deps.json
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\bin\Debug\net9.0\WebAPI.Service.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\bin\Debug\net9.0\WebAPI.Service.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.AssemblyInfoInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.AssemblyInfo.cs
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\refint\WebAPI.Service.dll
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\WebAPI.Service.pdb
+C:\Users\sh.alizadeh\Desktop\COREAPI-main\WebAPI.Service\obj\Debug\net9.0\ref\WebAPI.Service.dll

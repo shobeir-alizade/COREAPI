@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7c0hb8l2Bw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sh.alizadeh\\Desktop\\COREAPI-main\\WebAPI.Core\\WebAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\hangfire\\1.8.20\\hangfire.1.8.20.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\hangfire.aspnetcore\\1.8.20\\hangfire.aspnetcore.1.8.20.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\hangfire.core\\1.8.20\\hangfire.core.1.8.20.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\hangfire.netcore\\1.8.20\\hangfire.netcore.1.8.20.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\hangfire.sqlserver\\1.8.20\\hangfire.sqlserver.1.8.20.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.10\\microsoft.extensions.caching.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.10\\microsoft.extensions.caching.memory.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.10\\microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\sh.alizadeh\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
