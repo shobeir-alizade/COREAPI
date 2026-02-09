@@ -1,4 +1,6 @@
-﻿ 
+﻿
+using Microsoft.Extensions.Caching.Memory;
+
 namespace WebAPI.Core.Caching
 {
     public class MemoryCacheManager : ICacheManager

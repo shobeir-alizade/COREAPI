@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="WebAPI.Core/WebAPI.Core.csproj" />
-  <Project Path="WebAPI.Data/WebAPI.Data.csproj" />
-  <Project Path="WebAPI.General/WebAPI.General.csproj" />
-  <Project Path="WebAPI.Service/WebAPI.Service.csproj" />
-  <Project Path="WebAPI.TestUnit/WebAPI.TestUnit.csproj" />
-  <Project Path="WebAPI/WebAPI.Presentation.csproj" />
-</Solution>

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WebAPI.Core.Domain
 {
-    internal class Category
+    public class Category: Entity
     {
     }
 }

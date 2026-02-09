@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Devsharp.Core.Caching;
 using Hangfire;
 using Hangfire.SqlServer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
-namespace Devsharp.Core.Infrastructure
+ namespace WebAPI.Core.Infrastructure
 {
     public class TaskStartup : IApplicationStartup
     {
@@ -54,7 +52,6 @@ namespace Devsharp.Core.Infrastructure
     SlidingInvisibilityTimeout = TimeSpan.FromMinutes(5),
     QueuePollInterval = TimeSpan.Zero,
     UseRecommendedIsolationLevel = true,
-    UsePageLocksOnDequeue = true,
     DisableGlobalLocks = true,
 
 }));
@@ -62,7 +59,7 @@ namespace Devsharp.Core.Infrastructure
             services.AddHangfireServer();
 
 
-         
+
 
         }
 

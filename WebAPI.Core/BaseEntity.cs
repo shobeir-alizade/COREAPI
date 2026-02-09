@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace WebAPI.Core
 {
-    public abstract  class BaseEntity:Entity,IDateEntity
+    internal class BaseEntity<Type>: IEntity, IDateEntity
     {
-        public int ID { get; set; }
-        public DateTime CreateOn { get; set; }
-        public DateTime UpdateOn { get; set; }
+         
+        public Type Id { get; set; }
+        public DateTime CreateDate { get; set; }
+        public DateTime UpdateDate { get; set; }
+ 
     }
 }

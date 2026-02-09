@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPI.Core\WebAPI.Core.csproj" />
+    <ProjectReference Include="..\WebAPI.Service\WebAPI.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Data.SqlClient">
+      <HintPath>..\..\..\.nuget\packages\microsoft.data.sqlclient\6.0.2\lib\net9.0\Microsoft.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore">
+      <HintPath>..\dll\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Swashbuckle.AspNetCore.SwaggerGen">
+      <HintPath>..\..\..\.nuget\packages\swashbuckle.aspnetcore.swaggergen\9.0.6\lib\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll</HintPath>
+    </Reference>
+    <Reference Include="Swashbuckle.AspNetCore.SwaggerUI">
+      <HintPath>..\..\..\.nuget\packages\swashbuckle.aspnetcore.swaggerui\9.0.6\lib\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel.Tokens.Jwt">
+      <HintPath>..\..\..\.nuget\packages\system.identitymodel.tokens.jwt\8.14.0\lib\net9.0\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
