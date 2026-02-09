@@ -1,12 +1,14 @@
 ﻿
 using System.Text;
+using Microsoft.Extensions.Caching.Distributed;
+using Newtonsoft.Json;
 
 namespace WebAPI.Core.Caching
 {
     public class RedisCacheManager : ICacheManager
     {
        
-        private readonly IDistributedCache _cache = null;
+        private readonly IDistributedCache _cache;
         public RedisCacheManager(IDistributedCache cache)
         {
             _cache = cache;

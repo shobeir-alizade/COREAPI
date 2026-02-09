@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Devsharp.Core.Infrastructure
+namespace WebAPI.Core.Infrastructure
 {
     public interface IApplicationStartup
     {

@@ -6,14 +6,14 @@ using System.Reflection;
 using System.Runtime.Loader;
 using System.Text;
 
-namespace Devsharp.Core.Extenstions
+namespace WebAPI.Core.Extenstions
 {
     public static class CommonExtensions
     {
         public static List<string> GetAllClassNames(this Type type)
         {
             var _lista = new List<Assembly>();
-            foreach (string dllPath in Directory.GetFiles(System.AppContext.BaseDirectory, "Devsharp.*.dll"))
+            foreach (string dllPath in Directory.GetFiles(System.AppContext.BaseDirectory, "WebAPI.*.dll"))
             {
                 var shadowCopiedAssembly = AssemblyLoadContext.Default.LoadFromAssemblyPath(dllPath);
                 _lista.Add(shadowCopiedAssembly);
