@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Service", "WebAPI.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.TestUnit", "WebAPI.TestUnit\WebAPI.TestUnit.csproj", "{89770B34-6971-1A1E-8213-844A487EE13D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationServer", "AuthenticationServer\AuthenticationServer.csproj", "{FF097AE1-6B9F-4BC6-BA2A-0E8C4867450B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Authentication", "WebAPI.Authentication\WebAPI.Authentication.csproj", "{E3B53582-EF80-4C2C-9428-2C572767DC32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{89770B34-6971-1A1E-8213-844A487EE13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89770B34-6971-1A1E-8213-844A487EE13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89770B34-6971-1A1E-8213-844A487EE13D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF097AE1-6B9F-4BC6-BA2A-0E8C4867450B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF097AE1-6B9F-4BC6-BA2A-0E8C4867450B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF097AE1-6B9F-4BC6-BA2A-0E8C4867450B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF097AE1-6B9F-4BC6-BA2A-0E8C4867450B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B53582-EF80-4C2C-9428-2C572767DC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B53582-EF80-4C2C-9428-2C572767DC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B53582-EF80-4C2C-9428-2C572767DC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B53582-EF80-4C2C-9428-2C572767DC32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
