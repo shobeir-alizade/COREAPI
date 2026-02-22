@@ -7,8 +7,7 @@ using WebAPI.Authentication.Infrastructure.Persistence;
 
 namespace WebAPI.Authentication.Infrastructure.Identity
 {
-    public class PermissionClaimsFactory
-    : UserClaimsPrincipalFactory<ApplicationUser, ApplicationRole>
+    public class PermissionClaimsFactory    : UserClaimsPrincipalFactory<ApplicationUser, ApplicationRole>
     {
         private readonly ApplicationDbContext _db;
         public PermissionClaimsFactory(
@@ -26,11 +25,17 @@ namespace WebAPI.Authentication.Infrastructure.Identity
             var identity = await base.GenerateClaimsAsync(user);
 
             var permissions = await _db.UserRoles
-                .Where(ur => ur.UserId == user.Id)
-                .SelectMany(ur => ur.Role.RolePermissions)
-                .Select(rp => rp.Permission.Code)
-                .Distinct()
-                .ToListAsync();
+        .Where(ur => ur.UserId == user.Id)
+        .Join(
+            _db.Roles,
+            ur => ur.RoleId,
+            r => r.Id,
+            (ur, r) => r
+        )
+        .SelectMany(r => r.RolePermissions)
+        .Select(rp => rp.Permission.Code)
+        .Distinct()
+        .ToListAsync();
 
             foreach (var permission in permissions)
             {

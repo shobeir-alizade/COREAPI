@@ -6,12 +6,9 @@ namespace WebAPI.Authentication.Authorization
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class HasPermissionAttribute : AuthorizeAttribute
     {
-        public HasPermissionAttribute(string permission)
+        public HasPermissionAttribute(string resource, PermissionAction action)
         {
-            Policy = "PermissionPolicy";
-            Permission = permission;
+            Policy = $"{resource}.{action}";
         }
-
-        public string Permission { get; }
     }
 }
