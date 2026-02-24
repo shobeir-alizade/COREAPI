@@ -6,12 +6,16 @@ namespace WebAPI.Authentication.Authorization
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class HasPermissionAttribute : AuthorizeAttribute
     {
-        public HasPermissionAttribute(string permission)
+        public string Permission { get; }
+
+        // Resource can be optional. If null, infer from controller
+        public HasPermissionAttribute(PermissionAction action, string? resource = null)
         {
             Policy = "PermissionPolicy";
-            Permission = permission;
+            Permission = $"{resource ?? "AUTO"}.{action}";
+            Action = action;
         }
 
-        public string Permission { get; }
+        public PermissionAction Action { get; }
     }
 }

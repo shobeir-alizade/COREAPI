@@ -27,7 +27,7 @@
 
 		<!-- OpenAPI -->
  
-		<PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
 	</ItemGroup>
 
 </Project>

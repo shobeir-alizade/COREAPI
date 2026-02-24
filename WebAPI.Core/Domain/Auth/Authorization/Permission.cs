@@ -1,4 +1,4 @@
-﻿using WebAPI.Authentication.Domain.Enum;
+﻿ 
 
 namespace WebAPI.Core.Domain.Auth.Authorization
 {

@@ -196,12 +196,6 @@ namespace WebAPI.Authentication.Controllers
             return Ok(roles);
         }
 
-        [HasPermission(nameof(PermissionAction.View))]
-        [HttpGet("users")]
-        public IActionResult GetUsers()
-        {
-            return Ok();
-        }
 
         [HttpPost(nameof(CreatePermission))]
         public async Task<IActionResult> CreatePermission(CreatePermissionViewModel dto)
@@ -293,6 +287,24 @@ namespace WebAPI.Authentication.Controllers
                 .ToListAsync();
 
             return Ok(permissions);
+        }
+
+
+
+
+        [HasPermission(PermissionAction.View)]
+        [HttpGet("users")]
+        public IActionResult GetUsers()
+        {
+            return Ok();
+        }
+
+
+        [HasPermission(PermissionAction.Delete)]
+        [HttpGet()]
+        public IActionResult Delete()
+        {
+            return Ok();
         }
     }
 }
